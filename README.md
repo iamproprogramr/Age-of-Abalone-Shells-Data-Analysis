@@ -58,6 +58,8 @@ python age_of_abalone_analysis.py
 
 The script will output the results of the analysis and display various plots for data visualization as given.
 
+![iamproprogramr](genrated_fig.png)
+
 
 
 ## License
